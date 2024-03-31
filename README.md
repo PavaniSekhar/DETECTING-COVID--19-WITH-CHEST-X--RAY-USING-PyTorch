@@ -1,1 +1,1 @@
-# DETECTING-COVID--19-WITH-CHEST-X--RAY-USING-PyTorch
+# Detecting COVID-19 With chest x-ray
